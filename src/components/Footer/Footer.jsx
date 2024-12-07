@@ -3,7 +3,7 @@ import "./Footer.css";
 
 const Footer = () => {
 
-    let date = new Date();
+ 
 
   return (
     <footer className='footer bg-black flex flex-center' id = "footer">

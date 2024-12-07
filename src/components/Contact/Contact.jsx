@@ -3,7 +3,7 @@ import "./Contact.css";
 import images from '../../constants/images';
 import { Formik } from 'formik';
 import Info from './Info';
-import Map from './Map';
+
 
 const Contact = () => {
   return (
